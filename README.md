@@ -6,7 +6,7 @@ Author: Rebecca Neel
 
 ## Overview
 
-This project uses a slew of machine learning classification algorithms to build a predictive model to generate leads for the sales team and insights for the marketing and product-development teams of a large insurance provider.
+This project uses several machine learning classification algorithms to build a predictive model to generate leads for the sales team and insights for the marketing and product-development teams of a large insurance provider.
 
 ## Business Problem
 
