@@ -1,4 +1,4 @@
-![Cartoon Picture of a House with a Car in Driveway](images/house_and_car.jpg)
+![Cartoon Picture of a House with a Car in Driveway](images/house_and_car.jpeg)
 
 # Cross-Sell Lead Generator & Market Insights
 
