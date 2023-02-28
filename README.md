@@ -83,11 +83,10 @@ For additional information, contact Rebecca Neel at rebecc.clark@gmail.com.
 ## Repository Structure
 
 ```
+├── Archive
 ├── data
 ├── images
-├── README.md
 ├── notebook.ipynb
-├── old-notebook.ipynb
-├── scratchwork.ipynb
-└── presentation.pdf
+├── presentation.pdf
+└── README.md
 ```
